@@ -1,0 +1,14 @@
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\bin\Debug\BTLQLKS.exe.config
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\bin\Debug\BTLQLKS.exe
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\bin\Debug\BTLQLKS.pdb
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.csproj.AssemblyReference.cache
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.Form1.resources
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.Properties.Resources.resources
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.csproj.GenerateResource.cache
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.csproj.CoreCompileInputs.cache
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.exe
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.pdb
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.Form2.resources
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.Form3.resources
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.Form4.resources
+C:\Users\hvnse\source\repos\BTLQLKS\BTLQLKS\obj\Debug\BTLQLKS.Form5.resources
